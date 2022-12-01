@@ -28,3 +28,11 @@ git branch -M main
 git remote add origin https://Prismoid:[アクセストークン]@github.com/Prismoid/test.git
 git push -u origin main
 ```
+
+## github 設定確認用コマンド
+```
+color.ui : Gitの出力の色分け（通常はautoと設定）
+core.editor : コミットメッセージなどの編集で用いるエディタ
+user.name : ユーザー名 -> メールアドレスが入っている
+user.email : Eメールアドレス
+```
